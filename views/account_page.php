@@ -128,76 +128,90 @@
                         <h4>Yummy Yummy (Fresh from the kitchen)</h4>
                         <!-- Set up your HTML -->
                         <div class="owl-carousel recommended_product_slider">
-                            <figure class="figure prod_fig">
-                                <img src="../images/0d7c126cee48e419be9b991d423c7bcc.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$3.30 <br>
-                                        <small class="cd_prod_old_price">$3.45</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <figure class="figure prod_fig">
-                                <img src="../images/0f80435ef431f270eff640bd565aa3e9.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$2.00 <br>
-                                        <small class="cd_prod_old_price">$2.99</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <figure class="figure prod_fig">
-                                <img src="../images/8b718e328319e998685d17fd835d257b.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$4.00 <br>
-                                        <small class="cd_prod_old_price">$4.33</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <figure class="figure prod_fig">
-                                <img src="../images/64968702bb4d7610c3e8ced9450379f4.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$2.00 <br>
-                                        <small class="cd_prod_old_price">$2.30</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <figure class="figure prod_fig">
-                                <img src="../images/d633ca9345e888cb80e6573448eb927f.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$3.00 <br>
-                                        <small class="cd_prod_old_price">$3.45</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <figure class="figure prod_fig">
-                                <img src="../images/0f80435ef431f270eff640bd565aa3e9.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$2.00 <br>
-                                        <small class="cd_prod_old_price">$3.40</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
-                            <figure class="figure prod_fig">
-                                <img src="../images/8b718e328319e998685d17fd835d257b.jpg"
-                                    class="figure-img img-fluid rounded" alt="product thumbnail">
-                                <figcaption class="figure-caption prod_fig_caption">
-                                    <div class="cd_prod_name">Lorem, ipsum dolor.</div>
-                                    <div class="cd_prod_prce">$4.00 <br>
-                                        <small class="cd_prod_old_price">$4.05</small>
-                                    </div>
-                                </figcaption>
-                            </figure>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/0d7c126cee48e419be9b991d423c7bcc.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$3.30 <br>
+                                            <small class="cd_prod_old_price">$3.45</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/0f80435ef431f270eff640bd565aa3e9.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$2.00 <br>
+                                            <small class="cd_prod_old_price">$2.99</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/8b718e328319e998685d17fd835d257b.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$4.00 <br>
+                                            <small class="cd_prod_old_price">$4.33</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/64968702bb4d7610c3e8ced9450379f4.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$2.00 <br>
+                                            <small class="cd_prod_old_price">$2.30</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/d633ca9345e888cb80e6573448eb927f.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$3.00 <br>
+                                            <small class="cd_prod_old_price">$3.45</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/0f80435ef431f270eff640bd565aa3e9.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$2.00 <br>
+                                            <small class="cd_prod_old_price">$3.40</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
+                            <a href="#">
+                                <figure class="figure prod_fig">
+                                    <img src="../images/8b718e328319e998685d17fd835d257b.jpg"
+                                        class="figure-img img-fluid rounded" alt="product thumbnail">
+                                    <figcaption class="figure-caption prod_fig_caption">
+                                        <div class="cd_prod_name">Lorem, ipsum dolor.</div>
+                                        <div class="cd_prod_prce">$4.00 <br>
+                                            <small class="cd_prod_old_price">$4.05</small>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </a>
                         </div>
 
                         <div class="recommended_product_slider_nav" style="">
